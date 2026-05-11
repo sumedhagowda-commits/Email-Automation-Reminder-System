@@ -1,0 +1,12 @@
+Hello {name},
+
+This is a reminder regarding:
+
+Reminder: {reminder_title}
+
+Due Date: {due_date}
+
+Please complete the required action before the deadline.
+
+Regards,
+Automation Team

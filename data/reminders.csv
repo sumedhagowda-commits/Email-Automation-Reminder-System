@@ -1,0 +1,5 @@
+contact_id,subject,reminder_title,due_date
+1,Meeting Reminder,Project Discussion,2026-05-15
+2,Payment Reminder,Course Fee Payment,2026-05-17
+3,Webinar Reminder,Python Automation Webinar,2026-05-20
+4,Task Reminder,Assignment Submission,2026-05-22
